@@ -1,11 +1,11 @@
 Summary:	Userspace tools and conversion library for Video 4 Linux
 Name:		v4l-utils
-Version:	1.2.1
+Version:	1.6.0
 Release:	1
 License:	GPL v2+ (utilities), LGPL v2.1+ (libraries)
 Group:		Applications/System
 Source0:	http://linuxtv.org/downloads/v4l-utils/%{name}-%{version}.tar.bz2
-# Source0-md5:	4cc0fb4ded302ea9e89e5e1b56a7252b
+# Source0-md5:	921dab41b8d950fb7d1412e39f48703e
 URL:		http://freshmeat.net/projects/libv4l
 BuildRequires:	QtGui-devel
 BuildRequires:	autoconf
